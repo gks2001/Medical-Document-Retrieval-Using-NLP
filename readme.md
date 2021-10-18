@@ -64,9 +64,19 @@ When a query is given to the system, it undergoes preprocessing where the cleans
 * Jinja
 * Ngrok
 
-<!-- &nbsp;
-## Results?
-
 &nbsp;
+## Dataset
+
+The dataset consists of 37,815 PubMed articles in the form of XML files and can be found at http://participants-area.bioasq.org/datasets/
+&nbsp;
+## Results
+
+![Screenshot 2021-10-18 200936](https://user-images.githubusercontent.com/64645167/137753062-f245fc3f-2ad3-4029-aaa6-48ce811f76d4.png)
+
+![Screenshot 2021-10-18 200602](https://user-images.githubusercontent.com/64645167/137752414-25b5f332-68c5-40a6-9987-83b784aaa533.png)
+
+![image](https://user-images.githubusercontent.com/64645167/137752551-56c0dc5c-5498-4ddd-9163-f36aafeb2a2b.png)
+
+<!-- &nbsp;
 ## Future Work? -->
 
