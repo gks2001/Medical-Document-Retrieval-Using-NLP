@@ -9,7 +9,7 @@
 &nbsp;
 ## About the project
 
-Medical data is one of the most searched for topics on the internet, and therefore it is important to have an efficient and accurate Information Retrieval system in place. In this project consists of a domain specific Information Retrieval System which has the best performing Parsing, Indexing and Ranking methods. Here we retrieve documents not only matching query terms but also make use of CUIs (Concept Unique Identifiers) of medical terms and similarity of word embeddings to improve the results.
+Medical data is one of the most searched for topics on the internet, and therefore it is important to have an efficient and accurate Information Retrieval system in place. This project consists of a domain specific Information Retrieval System which has the best performing Parsing, Indexing and Ranking methods. Here we retrieve documents not only matching query terms but also make use of CUIs (Concept Unique Identifiers) of medical terms and similarity of word embeddings to improve the results.
 
 &nbsp;
 ## Indexing the Input Data
