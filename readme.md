@@ -6,6 +6,9 @@
 * Surya P
 
 #### Project Guide - Ms. S. Anitha
+
+*This project was done as part of course work for Creative and Innovative Project (CS6611), RUSA 2018*
+
 &nbsp;
 ## About the project
 
